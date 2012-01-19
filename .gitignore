@@ -1,6 +1,7 @@
 *~
 *.orig
 *.pyc
+*.pyo
 *.rej
 .installed.cfg
 __minitage__*
